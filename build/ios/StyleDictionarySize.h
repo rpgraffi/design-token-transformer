@@ -3,15 +3,34 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 08 May 2023 07:37:37 GMT
+// Generated on Tue, 26 Sep 2023 09:26:41 GMT
 
 
 #import <Foundation/Foundation.h>
 
 
-extern float const TypographyBodyH3FontWeight;
-extern float const TypographyBodyH4StrikeThroughFontWeight;
-extern float const TypographyBodyItalicFontWeight;
-extern float const TypographyBodyExtraBoldCondensedItalicFontWeight;
-extern float const TypographyBodyMediumExtendedItalicFontWeight;
-extern float const TypographyBodySuperFontWeight;
+extern float const TypographyHeadingH1600HeaderFontWeight;
+extern float const TypographyHeadingH1600DefaultFontWeight;
+extern float const TypographyHeadingH1700BalanceFontWeight;
+extern float const TypographyHeadingH2500DefaultFontWeight;
+extern float const TypographyHeadingH3500DefaultFontWeight;
+extern float const TypographyParagraphDefault400DefaultFontWeight;
+extern float const TypographyParagraphDefault500EmphasisFontWeight;
+extern float const TypographyParagraphDefaultSpecialUnderlineFontWeight;
+extern float const TypographyParagraphDefaultSpecialStrikethroughFontWeight;
+extern float const TypographyParagraphDefaultSpecialItalicsFontWeight;
+extern float const TypographyParagraphDefaultSpecial400DenseFontWeight;
+extern float const TypographyParagraphDefaultSpecial500DenseFontWeight;
+extern float const TypographyParagraphSmall400RegularFontWeight;
+extern float const TypographyParagraphSmall500EmphasisFontWeight;
+extern float const TypographyParagraphSmallSpecialUnderlineFontWeight;
+extern float const TypographyParagraphSmallSpecialStrikethroughFontWeight;
+extern float const TypographyParagraphSmallSpecialItalicsFontWeight;
+extern float const TypographyParagraphSmallSpecial400DenseFontWeight;
+extern float const TypographyParagraphXsmall400RegularFontWeight;
+extern float const TypographyParagraphXsmall500EmphasisFontWeight;
+extern float const TypographyParagraphXsmallSpecialUnderlineFontWeight;
+extern float const TypographyParagraphXsmallSpecialStrikethroughFontWeight;
+extern float const TypographyParagraphXsmallSpecialItalicsFontWeight;
+extern float const TypographyParagraphOverlineLargeFontWeight;
+extern float const TypographyParagraphOverlineSmallFontWeight;
